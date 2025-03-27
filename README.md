@@ -1,39 +1,54 @@
-<h1>Hi, I'm Dawit! <br/><a href="https://github.com/dawitmek1">Programmer</a>, <a href="https://www.linkedin.com/in/dawitmek1/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/dawitmek1">YouTuber</a></h1>
+# 👋 Hi, I'm Dawit Mekonnen 
+### Full Stack Developer | Python & JavaScript Specialist
 
-<h2>👨‍💻 Software Development Projects:</h2>
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://dawitmek1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+I build robust web applications and automate everything possible. My toolkit includes:
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+## 🛠️ Tech Stack
 
-- <b>PowerShell</b>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-- <b>C# (.NET Desktop Applications)</b>
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-- <b>Python</b>
+**Automation & More:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6600?style=flat)
+![Automation](https://img.shields.io/badge/Automation-FF0000?style=flat)
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🌟 Featured Projects
 
+### 1. [E-Commerce Platform](https://github.com/dawitmek1/ecommerce-platform)
+Full-featured online store with Django backend and responsive frontend  
+`Django` `JavaScript` `CSS` `PostgreSQL`
 
+### 2. [Web Scraper Suite](https://github.com/dawitmek1/web-scraper)
+Automated data collection system with Selenium and BeautifulSoup  
+`Python` `Selenium` `BeautifulSoup` `Pandas`
 
-<h2> 🤳 Connect with me:</h2>
+### 3. [Task Automation Toolkit](https://github.com/dawitmek1/automation-scripts)
+Collection of Python scripts for daily task automation  
+`Python` `PyAutoGUI` `OpenCV`
 
+## 📈 GitHub Stats
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitmek1&show_icons=true&theme=radical)
 
-<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawitmek1&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
+- 🔗 Portfolio: [dawitmek1.github.io](https://dawitmek1.github.io)
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "First, solve the problem. Then, write the code." - John Johnson

@@ -41,14 +41,11 @@ Collection of Python scripts for daily task automation
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitmek1&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawitmek1&layout=compact&theme=dark)
 
 ## 📫 Let's Connect
 - 🔗 Portfolio: [dawitmek1.github.io](https://dawitmek1.github.io)
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: dawitmek11@gmail.com
+- 💼 LinkedIn: [Dawit Engda](https://www.linkedin.com/in/dawit-engda-9b001a368/)
 
 > "First, solve the problem. Then, write the code." - John Johnson
